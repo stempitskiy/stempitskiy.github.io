@@ -24,7 +24,7 @@ header{
 .header-info{
 	display: inline-flex;
 	flex-direction: column;
-	/*text-align: center;*/
+	text-align: center;
 }
 .first-p{
 	font-size: 24px;
@@ -44,14 +44,14 @@ header{
 	display: block;
 	width: 169px;
 	height: 110px;
-	margin-left: 10px;
+	margin-left: auto;
 	margin-right: auto;
 	margin-top: 15px;
 }
 .number{
 	display: flex;
 	flex-direction: column;
-	align-items: flex-end;
+	text-align: center;
 	padding: 10px 10px 0px 0px;
 }
 .number p:last-child{
