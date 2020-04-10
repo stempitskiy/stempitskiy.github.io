@@ -8,9 +8,9 @@ $(function(){
  	var email = $("#email").val();
  	var course = $('#applyForm').data('course');
  	Email.send({
-    	SecureToken : "0579eec1-c817-4d0a-949d-3f3a2f2b49b4",
-    	To : 'troha.sem@gmail.com',
-    	From : "semegen.kep@gmail.com",
+    	SecureToken : "e0a4b5a1-6709-4ad1-a4dc-75e08dc9fb2c ",
+    	To : 'jasminebrod117@gmail.com',
+    	From : "bodya1599@gmail.com",
     	Subject : "Test subject",
     	Body : "And this is the body"
 	}).then(
