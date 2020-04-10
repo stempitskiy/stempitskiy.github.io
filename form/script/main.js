@@ -8,7 +8,7 @@ $(function(){
  	var email = $("#email").val();
  	var course = $('#applyForm').data('course');
  	Email.send({
-    	SecureToken : "e0a4b5a1-6709-4ad1-a4dc-75e08dc9fb2c",
+    	SecureToken : "6ccbe938-01b9-4578-a19a-c12260c1a5ed",
     	To : 'jasminebrod117@gmail.com',
     	From : "bodya1599@gmail.com",
     	Subject : "Test subject",
